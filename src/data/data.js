@@ -25,8 +25,8 @@ export const data=[
         id:3,
         name:"React JS Application",
         image:netflix,
-        github:"",
-        live:"",
+        github:"https://github.com/Manya-singh2001/netflix-clone",
+    
     },
    
     {
@@ -47,8 +47,7 @@ export const data=[
         id:6,
         name:"React JS Application",
         image:weekaway,
-        github:"",
-        live:"",
+        github:"https://github.com/Manya-singh2001/Weekaway-app",
     }
     
 
